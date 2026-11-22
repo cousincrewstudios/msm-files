@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:a86e4a9d6cbae6d011100125856a5f41:ba938706ae6509bdb05d32e3b2fd6da1:9adb030d4874be62e91cde36f31ea2c7$ -->
+<TextureAtlas imagePath="gfx/clubbox/clubbox_customization_menu_act03.png" width="256" height="256" hires="false" version="1">
+	<sprite n="button_attmoz" x="0" y="0" w="92" h="92"/>
+	<sprite n="button_epic_phangler" x="0" y="94" w="92" h="92"/>
+	<sprite n="button_fleechwurm" x="94" y="0" w="92" h="92"/>
+	<sprite n="button_rare_shellbeat" x="94" y="94" w="92" h="92"/>
+</TextureAtlas>

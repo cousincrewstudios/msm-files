@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:153a25902ae94d04614b4343aaa4b984:e06309ffb06af506ba628123d22f5fed:c1e61c0102c0c9e9d725278398fa37c6$ -->
+<TextureAtlas imagePath="gfx/monsters/monster_INS_01_sheet.png" width="512" height="1024" hires="true" version="1">
+	<sprite n="INS_01_eyeback" x="465" y="670" w="45" h="85" oX="3" oY="4" oW="92" oH="54" r="y"/>
+	<sprite n="INS_01_eyelid_01" x="389" y="251" w="48" h="88" oX="1" oY="3" oW="90" oH="54" r="y"/>
+	<sprite n="INS_01_eyelid_02" x="375" y="668" w="88" h="48" oX="1" oY="3" oW="90" oH="54"/>
+	<sprite n="INS_01_eyelid_03" x="375" y="718" w="88" h="48" oX="1" oY="3" oW="90" oH="54"/>
+	<sprite n="INS_01_eyelid_04" x="152" y="699" w="87" h="48" oX="1" oY="3" oW="90" oH="54"/>
+	<sprite n="INS_01_foot_left" x="153" y="582" w="103" h="85" oX="5" oY="2" oW="120" oH="100"/>
+	<sprite n="INS_01_foot_right" x="0" y="606" w="96" h="94" oX="8" oY="1" oW="116" oH="106"/>
+	<sprite n="INS_01_hair_front" x="162" y="376" w="95" h="86" oX="1" oY="2" oW="88" oH="100" r="y"/>
+	<sprite n="INS_01_hand_01" x="257" y="754" w="84" h="76" oX="5" oY="19" oW="100" oH="112"/>
+	<sprite n="INS_01_hand_08" x="87" y="829" w="83" h="77" oX="9" oY="20" oW="100" oH="112"/>
+	<sprite n="INS_01_hand_10" x="185" y="826" w="63" h="82" oX="8" oY="21" oW="100" oH="112" r="y"/>
+	<sprite n="INS_01_hand_13" x="258" y="668" w="88" h="84" oX="0" oY="21" oW="100" oH="112"/>
+	<sprite n="INS_01_hand_14" x="98" y="749" w="85" h="78" oX="10" oY="21" oW="100" oH="112" r="y"/>
+	<sprite n="INS_01_hand_15" x="0" y="787" w="85" h="78" oX="11" oY="20" oW="100" oH="112" r="y"/>
+	<sprite n="INS_01_head" x="0" y="0" w="257" h="231" oX="5" oY="5" oW="240" oH="266" r="y"/>
+	<sprite n="INS_01_key_01" x="162" y="464" w="95" h="60" oX="3" oY="2" oW="100" oH="64"/>
+	<sprite n="INS_01_key_02" x="0" y="867" w="74" h="56" oX="3" oY="2" oW="80" oH="60"/>
+	<sprite n="INS_01_key_03" x="389" y="409" w="117" h="90" oX="1" oY="7" oW="120" oH="100"/>
+	<sprite n="INS_01_key_04" x="185" y="749" w="70" h="75" oX="7" oY="3" oW="86" oH="76" r="y"/>
+	<sprite n="INS_01_key_05" x="259" y="471" w="114" h="113" oX="2" oY="3" oW="120" oH="120"/>
+	<sprite n="INS_01_key_06" x="259" y="378" w="128" h="91" oX="6" oY="3" oW="100" oH="134" r="y"/>
+	<sprite n="INS_01_key_07" x="0" y="503" w="117" h="44" oX="3" oY="1" oW="50" oH="120" r="y"/>
+	<sprite n="INS_01_key_08" x="162" y="233" w="95" h="141" oX="2" oY="2" oW="100" oH="146"/>
+	<sprite n="INS_01_key_09" x="375" y="501" w="96" h="74" oX="3" oY="2" oW="80" oH="100" r="y"/>
+	<sprite n="INS_01_key_10" x="259" y="251" w="128" h="125" oX="4" oY="2" oW="136" oH="130"/>
+	<sprite n="INS_01_lower_body" x="0" y="310" w="135" h="124" oX="4" oY="3" oW="144" oH="130"/>
+	<sprite n="INS_01_lowerarm_left_behind" x="0" y="702" w="96" h="83" oX="86" oY="19" oW="190" oH="110"/>
+	<sprite n="INS_01_lowerarm_left_front" x="375" y="577" w="92" h="89" oX="7" oY="13" oW="190" oH="110" r="y"/>
+	<sprite n="INS_01_lowerarm_right_01" x="259" y="157" w="175" h="92" oX="7" oY="13" oW="190" oH="110"/>
+	<sprite n="INS_01_lowerleg_left" x="162" y="526" w="95" h="54" oX="2" oY="2" oW="58" oH="100" r="y"/>
+	<sprite n="INS_01_lowerleg_right" x="0" y="549" w="101" h="55" oX="4" oY="2" oW="60" oH="106" r="y"/>
+	<sprite n="INS_01_midleg_left" x="258" y="586" w="92" h="49" oX="4" oY="3" oW="56" oH="100" r="y"/>
+	<sprite n="INS_01_midleg_right" x="98" y="630" w="52" h="93" oX="3" oY="3" oW="60" oH="100"/>
+	<sprite n="INS_01_mouth_01" x="349" y="637" w="24" h="82" oX="9" oY="5" oW="100" oH="60" r="y"/>
+	<sprite n="INS_01_mouth_02" x="258" y="637" w="89" h="29" oX="5" oY="4" oW="100" oH="60"/>
+	<sprite n="INS_01_mouth_03" x="127" y="452" w="33" h="93" oX="3" oY="3" oW="100" oH="60" r="y"/>
+	<sprite n="INS_01_mouth_05" x="119" y="547" w="32" h="81" oX="9" oY="4" oW="100" oH="60" r="y"/>
+	<sprite n="INS_01_mouth_09" x="137" y="310" w="23" h="67" oX="13" oY="8" oW="100" oH="60" r="y"/>
+	<sprite n="INS_01_mouth_14" x="137" y="403" w="20" h="47" oX="22" oY="11" oW="100" oH="60" r="y"/>
+	<sprite n="INS_01_mouth_18" x="152" y="669" w="88" h="28" oX="5" oY="3" oW="100" oH="60"/>
+	<sprite n="INS_01_mouth_19" x="473" y="501" w="32" h="81" oX="7" oY="5" oW="100" oH="60" r="y"/>
+	<sprite n="INS_01_mouth_20" x="469" y="584" w="31" h="84" oX="7" oY="4" oW="100" oH="60" r="y"/>
+	<sprite n="INS_01_mouth_21" x="439" y="277" w="68" h="19" oX="15" oY="10" oW="100" oH="60"/>
+	<sprite n="INS_01_mouth_22" x="439" y="298" w="32" h="35" oX="27" oY="6" oW="100" oH="60" r="y"/>
+	<sprite n="INS_01_pupil" x="137" y="379" w="22" h="22" oX="1" oY="1" oW="24" oH="24"/>
+	<sprite n="INS_01_shadow" x="439" y="140" w="70" h="135" oX="3" oY="5" oW="140" oH="80" r="y"/>
+	<sprite n="INS_01_upper_body" x="259" y="0" w="178" h="155" oX="3" oY="4" oW="160" oH="186" r="y"/>
+	<sprite n="INS_01_upperarm_left" x="439" y="0" w="73" h="138" oX="5" oY="0" oW="150" oH="80" r="y"/>
+	<sprite n="INS_01_upperarm_right" x="0" y="233" w="160" h="75" oX="4" oY="0" oW="170" oH="90"/>
+	<sprite n="INS_01_upperleg_left" x="389" y="341" w="122" h="66" oX="1" oY="0" oW="70" oH="122" r="y"/>
+	<sprite n="INS_01_upperleg_right" x="0" y="436" w="125" h="65" oX="2" oY="3" oW="70" oH="132" r="y"/>
+</TextureAtlas>

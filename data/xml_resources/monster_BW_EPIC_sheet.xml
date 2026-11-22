@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:13724633fb51bb1eb0c4bb43fa32ef55:92320df91f771e575306eae585f53835:9667182794a2516d34e32ccbf1fef578$ -->
+<TextureAtlas imagePath="gfx/monsters/monster_BW_EPIC_sheet.png" width="1024" height="1024" hires="true" version="1">
+	<sprite n="BW_EPIC_claw_1a" x="308" y="293" w="37" h="55" oX="10" oY="6" oW="72" oH="48" r="y"/>
+	<sprite n="BW_EPIC_claw_1b" x="415" y="492" w="56" h="34" oX="8" oY="5" oW="72" oH="48"/>
+	<sprite n="BW_EPIC_claw_1c" x="504" y="280" w="31" h="58" oX="6" oY="5" oW="72" oH="48" r="y"/>
+	<sprite n="BW_EPIC_claw_2a" x="510" y="247" w="57" h="30" oX="7" oY="6" oW="44" oH="68" r="y"/>
+	<sprite n="BW_EPIC_claw_2b" x="347" y="293" w="30" h="54" oX="7" oY="6" oW="44" oH="68"/>
+	<sprite n="BW_EPIC_claw_2c" x="379" y="293" w="30" h="52" oX="7" oY="6" oW="44" oH="68"/>
+	<sprite n="BW_EPIC_claw_3a" x="353" y="492" w="60" h="35" oX="2" oY="9" oW="68" oH="48"/>
+	<sprite n="BW_EPIC_claw_3b" x="449" y="247" w="59" h="31" oX="4" oY="9" oW="68" oH="48"/>
+	<sprite n="BW_EPIC_claw_3c" x="472" y="280" w="30" h="61" oX="4" oY="8" oW="68" oH="48" r="y"/>
+	<sprite n="BW_EPIC_eyeball" x="449" y="150" w="72" h="95" oX="2" oY="1" oW="100" oH="76" r="y"/>
+	<sprite n="BW_EPIC_foot" x="246" y="534" w="92" h="112" oX="4" oY="4" oW="120" oH="100" r="y"/>
+	<sprite n="BW_EPIC_iris" x="141" y="853" w="22" h="30" oX="4" oY="5" oW="40" oH="32" r="y"/>
+	<sprite n="BW_EPIC_leaf_collar_1" x="126" y="892" w="62" h="122" oX="5" oY="5" oW="128" oH="76" r="y"/>
+	<sprite n="BW_EPIC_leaf_collar_2" x="344" y="826" w="97" h="172" oX="5" oY="5" oW="184" oH="108" r="y"/>
+	<sprite n="BW_EPIC_leaf_tail" x="530" y="975" w="82" h="45" oX="7" oY="6" oW="96" oH="56"/>
+	<sprite n="BW_EPIC_mouth_back_01" x="443" y="811" w="109" h="162" oX="134" oY="43" oW="268" oH="248"/>
+	<sprite n="BW_EPIC_mouth_back_02" x="376" y="646" w="136" h="163" oX="109" oY="42" oW="268" oH="248"/>
+	<sprite n="BW_EPIC_mouth_back_03" x="308" y="150" w="139" h="141" oX="106" oY="46" oW="268" oH="248"/>
+	<sprite n="BW_EPIC_mouth_back_04" x="308" y="0" w="146" h="148" oX="110" oY="60" oW="268" oH="248" r="y"/>
+	<sprite n="BW_EPIC_mouth_back_05" x="99" y="551" w="145" h="117" oX="119" oY="84" oW="268" oH="248"/>
+	<sprite n="BW_EPIC_mouth_front_01" x="0" y="680" w="139" h="210" oX="66" oY="4" oW="268" oH="248"/>
+	<sprite n="BW_EPIC_mouth_front_02" x="99" y="350" w="142" h="199" oX="64" oY="15" oW="268" oH="248"/>
+	<sprite n="BW_EPIC_mouth_front_03" x="190" y="853" w="152" h="171" oX="37" oY="49" oW="268" oH="248"/>
+	<sprite n="BW_EPIC_mouth_front_04" x="141" y="670" w="140" h="181" oX="9" oY="90" oW="268" oH="248" r="y"/>
+	<sprite n="BW_EPIC_mouth_front_05" x="243" y="350" w="108" h="182" oX="4" oY="136" oW="268" oH="248" r="y"/>
+	<sprite n="BW_EPIC_mouth_mid_03" x="340" y="534" w="80" h="110" oX="173" oY="97" oW="268" oH="248"/>
+	<sprite n="BW_EPIC_mouth_mid_04" x="441" y="345" w="92" h="93" oX="168" oY="120" oW="268" oH="248"/>
+	<sprite n="BW_EPIC_mouth_mid_05" x="422" y="528" w="98" h="109" oX="151" oY="135" oW="268" oH="248" r="y"/>
+	<sprite n="BW_EPIC_mouth_upper_back_04" x="0" y="892" w="124" h="127" oX="62" oY="90" oW="268" oH="248" r="y"/>
+	<sprite n="BW_EPIC_mouth_upper_back_05" x="353" y="349" w="86" h="141" oX="41" oY="125" oW="268" oH="248" r="y"/>
+	<sprite n="BW_EPIC_shadow" x="283" y="648" w="91" h="176" r="y"/>
+	<sprite n="BW_EPIC_sound_glow" x="0" y="0" w="306" h="348"/>
+	<sprite n="BW_EPIC_sound_wave" x="0" y="350" w="97" h="328" r="y"/>
+	<sprite n="BW_EPIC_tongue_03" x="283" y="826" w="38" h="23" oX="3" oY="4" oW="76" oH="114" r="y"/>
+	<sprite n="BW_EPIC_tongue_04" x="411" y="293" w="59" h="50" oX="8" oY="7" oW="76" oH="114" r="y"/>
+	<sprite n="BW_EPIC_tongue_05" x="443" y="975" w="85" h="46" oX="26" oY="25" oW="76" oH="114" r="y"/>
+</TextureAtlas>

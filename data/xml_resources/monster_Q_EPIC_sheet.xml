@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:2c3f57328cc1cffae78417bbe6b935b2:42bde8a0905a9d16e24c5c4c5e5e6288:d9ed0a9c8fdc471ce10bf0fb4d9cecd0$ -->
+<TextureAtlas imagePath="gfx/monsters/monster_Q_EPIC_sheet.png" width="512" height="1024" hires="true" version="1">
+	<sprite n="Q_body_01" x="320" y="0" w="191" h="179" oX="1" oY="0" oW="194" oH="179"/>
+	<sprite n="Q_body_02" x="316" y="362" w="194" h="173" oX="0" oY="6" oW="194" oH="179"/>
+	<sprite n="Q_body_04" x="0" y="314" w="191" h="175" oX="1" oY="4" oW="194" oH="179"/>
+	<sprite n="Q_body_08" x="319" y="181" w="193" h="179" oX="0" oY="0" oW="194" oH="179"/>
+	<sprite n="Q_dirt_chunk" x="100" y="638" w="21" h="20" oX="6" oY="6" oW="32" oH="32" r="y"/>
+	<sprite n="Q_dirt_chunk_lrg" x="76" y="638" w="22" h="19" r="y"/>
+	<sprite n="Q_dirtmound_back_lrg" x="0" y="117" w="258" h="100"/>
+	<sprite n="Q_dirtmound_front_lrg" x="0" y="0" w="318" h="115"/>
+	<sprite n="Q_eyeball_left_08" x="210" y="219" w="42" h="42"/>
+	<sprite n="Q_eyeball_left_09" x="89" y="602" w="38" h="34"/>
+	<sprite n="Q_eyeball_left_10" x="139" y="552" w="42" h="42"/>
+	<sprite n="Q_eyeball_left_11" x="0" y="622" w="37" h="34" r="y"/>
+	<sprite n="Q_eyeball_right_08" x="210" y="219" w="42" h="42"/>
+	<sprite n="Q_eyeball_right_09" x="39" y="622" w="35" h="33"/>
+	<sprite n="Q_eyeball_right_10" x="89" y="559" w="42" h="41" oX="0" oY="0" oW="42" oH="42" r="y"/>
+	<sprite n="Q_eyeball_right_11" x="210" y="263" w="36" h="25" r="y"/>
+	<sprite n="Q_hair" x="0" y="219" w="208" h="93" oX="0" oY="1" oW="208" oH="96"/>
+	<sprite n="Q_headtop_08" x="133" y="596" w="53" h="72" oX="5" oY="4" oW="83" oH="57" r="y"/>
+	<sprite n="Q_headtop_09" x="260" y="117" w="57" h="83" r="y"/>
+	<sprite n="Q_headtop_10" x="192" y="514" w="91" h="132" oX="6" oY="1" oW="144" oH="96" r="y"/>
+	<sprite n="Q_headtop_11" x="210" y="293" w="104" h="138" oX="3" oY="2" oW="144" oH="108" r="y"/>
+	<sprite n="Q_headtop_11_back" x="139" y="491" w="51" h="59" r="y"/>
+	<sprite n="Q_headtop_shadow" x="291" y="433" w="23" h="64" r="y"/>
+	<sprite n="Q_headtop_shadow_mane" x="289" y="499" w="23" h="64" r="y"/>
+	<sprite n="Q_moustache" x="0" y="491" w="137" h="66"/>
+	<sprite n="Q_mouth_lrg_01" x="193" y="433" w="96" h="33" oX="0" oY="0" oW="96" oH="70"/>
+	<sprite n="Q_mouth_lrg_02" x="193" y="468" w="94" h="44" oX="2" oY="4" oW="96" oH="70"/>
+	<sprite n="Q_mouth_lrg_03" x="260" y="202" w="53" h="89" oX="3" oY="8" oW="96" oH="70" r="y"/>
+	<sprite n="Q_mouth_lrg_04" x="0" y="559" w="87" h="61" oX="5" oY="9" oW="96" oH="70"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:ebaf59ac820e48a5529c6b72a1a8ff52:f43cf7b69beb730c613d1a176626e8d7:ea36b08678213c57bb8e4f232e8cbb74$ -->
+<TextureAtlas imagePath="gfx/monsters/monster_Q_ASTRAL_sheet.png" width="1024" height="1024" hires="true" version="1">
+	<sprite n="Q25_body_details_A" x="579" y="600" w="157" h="131" r="y"/>
+	<sprite n="Q25_body_details_B" x="738" y="713" w="178" h="154" r="y"/>
+	<sprite n="Q25_headtop" x="783" y="0" w="229" h="161" oX="28" oY="21" oW="286" oH="194"/>
+	<sprite n="Q26_body_details_A" x="453" y="623" w="121" h="135" oX="5" oY="4" oW="144" oH="128" r="y"/>
+	<sprite n="Q26_body_details_B" x="155" y="869" w="125" h="152" oX="2" oY="42" oW="154" oH="178" r="y"/>
+	<sprite n="Q26_headtop_01" x="0" y="869" w="153" h="154" oX="27" oY="28" oW="208" oH="208" r="y"/>
+	<sprite n="Q26_headtop_02" x="947" y="515" w="74" h="65" oX="3" oY="7" oW="80" oH="80"/>
+	<sprite n="Q26_headtop_glow" x="739" y="515" w="206" h="196" oX="1" oY="6" oW="208" oH="208"/>
+	<sprite n="Q_body_00" x="0" y="151" w="356" h="307" r="y"/>
+	<sprite n="Q_body_01" x="398" y="155" w="340" h="302" oX="2" oY="16" oW="307" oH="356" r="y"/>
+	<sprite n="Q_body_edge" x="576" y="733" w="156" h="161" r="y"/>
+	<sprite n="Q_body_edge_01" x="579" y="459" w="158" h="139" oX="1" oY="4" oW="161" oH="156"/>
+	<sprite n="Q_body_star" x="358" y="188" w="31" h="26" r="y"/>
+	<sprite n="Q_body_star_01" x="358" y="216" w="31" h="26" r="y"/>
+	<sprite n="Q_dirt_chunk" x="358" y="244" w="27" h="26" r="y"/>
+	<sprite n="Q_dirt_chunk_lrg" x="358" y="151" w="38" h="35" r="y"/>
+	<sprite n="Q_dirtmound_back_lrg" x="398" y="0" w="383" h="153"/>
+	<sprite n="Q_dirtmound_front_lrg" x="0" y="0" w="396" h="149"/>
+	<sprite n="Q_mouth_01" x="740" y="291" w="225" h="75" oX="0" oY="0" oW="228" oH="187"/>
+	<sprite n="Q_mouth_02" x="740" y="163" w="228" h="126" oX="0" oY="12" oW="228" oH="187"/>
+	<sprite n="Q_mouth_03" x="740" y="368" w="220" h="145" oX="3" oY="22" oW="228" oH="187"/>
+	<sprite n="Q_mouth_04" x="358" y="459" w="219" h="162" oX="4" oY="25" oW="228" oH="187"/>
+	<sprite n="Q_mouth_glow" x="0" y="733" w="124" h="126" oX="1" oY="2" oW="128" oH="128" r="y"/>
+	<sprite n="Q_stars_A" x="282" y="869" w="169" h="145" r="y"/>
+	<sprite n="Q_stars_B" x="734" y="869" w="156" h="143" oX="1" oY="11" oW="145" oH="169" r="y"/>
+</TextureAtlas>

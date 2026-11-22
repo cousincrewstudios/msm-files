@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="menu.xsd">
+
+	<template type="template_event_screen" name="EventScreen">
+		<templateVar name="$layer" equals="FrontPopUps" />
+
+		<templateVar name="$titleSprite" equals="'gfx/menu/map/seasonal/seasonal_text_feast_ember'"/>
+		<templateVar name="$stickerSpriteSheet" equals="'xml_resources/multipack_feast_ember_sheet.xml'"/>
+		<templateVar name="$monsterSprite" equals="'gfx/menu/event_screen/feast_ember/event_screen_monster'"/>
+		<templateVar name="$mainSprite" equals="'gfx/menu/event_screen/feast_ember/feast_ember_event_image_01'"/>
+		<templateVar name="$glowSprite" equals="'gfx/menu/event_screen/feast_ember/event_screen_glow'"/>
+
+		<templateVar name="$topLeftStickerSpriteName" equals="'left_01'"/>
+		<templateVar name="$topRightStickerSpriteName" equals="'left_01'"/>
+
+		<templateVar name="$subtitle_refid" equals="EVENT_SCREEN_FEASTEMBER_TITLE"/>
+
+		<templateVar name="$text1_color" equals="'#FF8020'"/>
+		<templateVar name="$text1_refid" equals="EVENT_SCREEN_FEASTEMBER_TOP"/>
+		<templateVar name="$text2_refid" equals="EVENT_SCREEN_FEASTEMBER_OWNED_BOTTOM"/>
+
+		<position relativeTo="PARENT" vAnchor="VCENTER" hAnchor="HCENTER" />
+		<orientation vAnchor="VCENTER" hAnchor="HCENTER" xOffset="0" yOffset="0" priorityOffset="0" />
+	</template>
+
+	<event name="onPostInit" params="component, element">
+		<![CDATA[
+			local eventScreen = component:E("EventScreen")
+
+			eventScreen.bg.TopLeft("xOffset"):SetFloat(-10*game.windowScaleY())
+			eventScreen.bg.TopLeft("yOffset"):SetFloat(13*game.windowScaleY())
+
+			eventScreen.bg.TopRight("hFlip"):SetInt(1)
+			eventScreen.bg.TopRight("xOffset"):SetFloat(-10*game.windowScaleY())
+			eventScreen.bg.TopRight("yOffset"):SetFloat(13*game.windowScaleY())
+
+			eventScreen.bg.BottomRight("visible"):SetInt(0)
+
+			eventScreen.TitleImage.Sprite("size"):SetFloat(0.45*game.windowScaleY())
+
+			eventScreen.Monster("yOffset"):SetFloat(-12*game.windowScaleY())
+
+			if not game.isIslandOwned(game.IslandType_FIRE_HAVEN) then
+				eventScreen.Description2.Text("text"):SetString("EVENT_SCREEN_FEASTEMBER_UNOWNED_BOTTOM")
+			end
+
+			eventScreen:hideCloseButton()
+		]]>
+	</event>
+</menu>

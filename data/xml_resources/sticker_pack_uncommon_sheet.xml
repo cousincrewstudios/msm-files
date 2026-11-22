@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:5fbb91ca6864b522f521dff5d2010157:1a3b8841c003b90b4b1b59cac5e542b0:06382e65e3fa6d758691279e864ea598$ -->
+<TextureAtlas imagePath="gfx/menu/stickers/sticker_pack_uncommon_sheet.png" width="256" height="512" hires="false" version="1">
+	<sprite n="pack" x="0" y="0" w="256" h="316"/>
+	<sprite n="tear" x="0" y="361" w="241" h="50"/>
+	<sprite n="tear_fx" x="0" y="318" w="256" h="41" oX="0" oY="25" oW="256" oH="91"/>
+</TextureAtlas>

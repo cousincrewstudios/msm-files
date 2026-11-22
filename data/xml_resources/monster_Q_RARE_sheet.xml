@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:509e88ed79ff6a4f7b9d9e98a2841727:eac425b0ff960550461f6b22e149f587:ed8ae9ed9486a9c7e21a4aa9a9476c74$ -->
+<TextureAtlas imagePath="gfx/monsters/monster_Q_RARE_sheet.png" width="512" height="512" hires="true" version="1">
+	<sprite n="Q_body_01" x="0" y="64" w="128" h="115" oX="12" oY="7" oW="140" oH="144" r="y"/>
+	<sprite n="Q_body_03" x="130" y="117" w="124" h="114" oX="13" oY="10" oW="140" oH="144" r="y"/>
+	<sprite n="Q_body_04" x="288" y="175" w="124" h="114" oX="13" oY="10" oW="140" oH="144" r="y"/>
+	<sprite n="Q_dirt_chunk" x="130" y="64" w="20" h="21" oX="6" oY="6" oW="32" oH="32"/>
+	<sprite n="Q_dirt_chunk_lrg" x="130" y="87" w="19" h="22"/>
+	<sprite n="Q_dirtmound_back" x="290" y="0" w="128" h="63" oX="12" oY="10" oW="152" oH="84"/>
+	<sprite n="Q_dirtmound_front" x="0" y="0" w="150" h="62" oX="2" oY="11" oW="156" oH="84"/>
+	<sprite n="Q_eyeball_BLUE" x="256" y="117" w="30" h="28" oX="10" oY="12" oW="48" oH="48" r="y"/>
+	<sprite n="Q_eyeball_PINK" x="256" y="147" w="30" h="28" oX="10" oY="12" oW="48" oH="48" r="y"/>
+	<sprite n="Q_eyeball_RED" x="256" y="177" w="30" h="28" oX="10" oY="12" oW="48" oH="48" r="y"/>
+	<sprite n="Q_eyeball_YELLOW" x="256" y="207" w="30" h="28" oX="10" oY="12" oW="48" oH="48" r="y"/>
+	<sprite n="Q_headtop_01_RARE" x="0" y="181" w="116" h="110" oX="20" oY="15" oW="156" oH="128"/>
+	<sprite n="Q_headtop_02_RARE" x="290" y="65" w="125" h="108" oX="20" oY="20" oW="156" oH="128"/>
+	<sprite n="Q_headtop_04_RARE" x="417" y="82" w="95" h="97" oX="31" oY="31" oW="156" oH="128"/>
+	<sprite n="Q_headtop_07_RARE" x="152" y="0" w="136" h="115" oX="12" oY="12" oW="156" oH="128"/>
+	<sprite n="Q_mouth_01" x="420" y="0" w="80" h="24" oX="11" oY="15" oW="104" oH="80"/>
+	<sprite n="Q_mouth_02" x="414" y="227" w="77" h="35" oX="13" oY="14" oW="104" oH="80"/>
+	<sprite n="Q_mouth_03" x="414" y="181" w="78" h="44" oX="13" oY="14" oW="104" oH="80"/>
+	<sprite n="Q_mouth_04" x="420" y="26" w="78" h="54" oX="13" oY="14" oW="104" oH="80"/>
+</TextureAtlas>
